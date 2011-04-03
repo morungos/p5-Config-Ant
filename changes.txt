@@ -1,3 +1,7 @@
+0.02 - 3rd April 2011
+
+- Moved to github and Dist::Zilla
+
 0.01 - 22nd September 2010
 
 - Initial release
